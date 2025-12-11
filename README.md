@@ -116,4 +116,4 @@ vectordb = Chroma.from_documents(
 
 Проект создан в рамках обучения работе с LangChain и векторными базами.
 
-vectordb.persist()
+
